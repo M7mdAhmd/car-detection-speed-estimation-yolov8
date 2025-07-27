@@ -15,5 +15,4 @@ This project implements a vision-based traffic monitoring system capable of dete
 - Python
 - Ultralytics YOLOv8
 - OpenCV
-- PyTorch
 - NumPy
